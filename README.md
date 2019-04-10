@@ -20,4 +20,4 @@ Since I can't download the file from TA's github in class, I submitted my old pr
 ### After Spring Break
 
 - Added analysis for various ETF in the `ETF` folder
-- All the figures and code are in file [hw1/HW2, 3 Visualization, Insight, and Some Questions.ipynb](.https://github.com/Nicetiesniceties/CSX_RPROJECT_SPRING2019/blob/master/hw1/HW2%2C%203%20Visualization%2C%20Insight%2C%20and%20Some%20Questions.ipynb)
+- All the figures and code are in file [hw1/HW2, 3 Visualization, Insight, and Some Questions.ipynb](https://github.com/Nicetiesniceties/CSX_RPROJECT_SPRING2019/blob/master/hw1/HW2%2C%203%20Visualization%2C%20Insight%2C%20and%20Some%20Questions.ipynb)
