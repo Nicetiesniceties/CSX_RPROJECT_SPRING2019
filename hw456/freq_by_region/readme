@@ -1,0 +1,11 @@
+package:
+
+matplotlib
+mpl_toolkits.basemap
+GEOS library
+shapefile
+
+file:
+
+map shape
+chinese font
