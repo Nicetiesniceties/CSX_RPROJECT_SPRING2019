@@ -1,5 +1,7 @@
 # CSX_RPROJECT_SPRING2019
 This is for the CS+X course 2019 Spring.
+# Final
+Our final is at https://github.com/Nicetiesniceties/NBA_Sales_Analysis
 ## HW0
 Since I can't download the file from TA's github in class, I submitted my old project from 台大AI中心 instead.
 ## HW1
